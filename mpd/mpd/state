@@ -1,0 +1,28 @@
+sw_volume: 100
+audio_device_state:1:default detected output
+state: stop
+current: 3
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Dire Straits-Sultans Of Swing (The Very Best Of Dire Straits) (mp3) {tre123wor}/01-Sultans Of Swing.mp3
+1:Dire Straits-Sultans Of Swing (The Very Best Of Dire Straits) (mp3) {tre123wor}/02-Lady Writer.mp3
+2:Dire Straits-Sultans Of Swing (The Very Best Of Dire Straits) (mp3) {tre123wor}/03-Romeo And Juliet.mp3
+3:Dire Straits-Sultans Of Swing (The Very Best Of Dire Straits) (mp3) {tre123wor}/04-Tunnel Of Love.mp3
+4:Dire Straits-Sultans Of Swing (The Very Best Of Dire Straits) (mp3) {tre123wor}/05-Private Investigations.mp3
+5:Dire Straits-Sultans Of Swing (The Very Best Of Dire Straits) (mp3) {tre123wor}/06-Twisting By The Pool.mp3
+6:Dire Straits-Sultans Of Swing (The Very Best Of Dire Straits) (mp3) {tre123wor}/07-Love Over Gold (Live).mp3
+7:Dire Straits-Sultans Of Swing (The Very Best Of Dire Straits) (mp3) {tre123wor}/08-So Far Away.mp3
+8:Dire Straits-Sultans Of Swing (The Very Best Of Dire Straits) (mp3) {tre123wor}/09-Money For Nothing.mp3
+9:Dire Straits-Sultans Of Swing (The Very Best Of Dire Straits) (mp3) {tre123wor}/10-Brothers In Arms.mp3
+10:Dire Straits-Sultans Of Swing (The Very Best Of Dire Straits) (mp3) {tre123wor}/11-Walk Of Life.mp3
+11:Dire Straits-Sultans Of Swing (The Very Best Of Dire Straits) (mp3) {tre123wor}/12-Calling Elvis.mp3
+12:Dire Straits-Sultans Of Swing (The Very Best Of Dire Straits) (mp3) {tre123wor}/13-Heavy Fuel.mp3
+13:Dire Straits-Sultans Of Swing (The Very Best Of Dire Straits) (mp3) {tre123wor}/14-On Every Street.mp3
+14:Dire Straits-Sultans Of Swing (The Very Best Of Dire Straits) (mp3) {tre123wor}/15-Your Latest Trick (Live).mp3
+playlist_end

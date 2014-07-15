@@ -1,0 +1,76 @@
+! Common
+
+#define C_black         #000000
+#define C_red           #FF0000
+#define C_green         #00FF00
+#define C_yellow        #FFFF00
+#define C_blue          #0000FF
+#define C_magenta       #FF00FF
+#define C_cyan          #00FFFF
+#define C_white         #FFFFFF
+
+! Dark
+!
+
+#define D_black         #000000
+#define D_red           #CC0000
+#define D_green         #00CC00
+#define D_yellow        #CCCC00
+#define D_blue          #0000CC
+#define D_magenta       #CC00CC
+#define D_cyan          #00CCCC
+#define D_white         #CCCCCC
+
+
+! To only apply colors to your terminal, for example, prefix
+! the color assignment statement with its name. Example:
+!
+
+*background:              C_black
+*foreground:              C_white
+*fading:                  50
+*fadeColor:               C_black
+*cursorColor:             D_white
+*pointerColorBackground:  C_red
+*pointerColorForeground:  D_white
+!
+*color0:                  D_black
+*color1:                  D_red
+*color2:                  D_green
+*color3:                  D_yellow
+*color4:                  D_blue
+*color5:                  D_magenta
+*color6:                  D_cyan
+*color7:                  D_white
+*color8:                  C_black
+*color9:                  C_red
+*color10:                 C_green
+*color11:                 C_yellow
+*color12:                 C_blue
+*color13:                 C_magenta
+*color14:                 C_cyan
+*color15:                 C_white
+
+!urxvt ---------------------------------------------------------
+URxvt*font:          xft:Monaco for Powerline:regular:size=9
+URxvt*boldFont:      xft:Monaco for Powerline:bold:size=9
+URxvt*italicFont:    xft:Monaco for Powerline:italic:size=9
+URxvt*bolditalicFont:xft:Monaco for Powerline:bold:italic:size=9
+URxvt*letterSpace:	 	 -1
+URxvt*scrollBar:          !  false
+URxvt*multichar_encoding: utf-8	
+URxvt*cursorBlink:  	  true
+URxvt*depth:			  24
+URxvt*intensityStyles:    false
+
+! xft settings -------------------------------------------------
+Xft.dpi: 				  131
+Xft.antialias:            true
+Xft.rgba:                 rgb
+Xft.hinting:              true
+Xft.hintstyle:            hintslight
+Xft.lcdfilter:            lcddefault
+
+! emacs --------------------------------------------------------
+Emacs.font:				Monaco\ for\ Powerline-9
+Emacs.boldfont:			Monaco\ for\ Powerline-bold-9

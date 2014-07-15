@@ -1,0 +1,1706 @@
+info_begin
+format: 1
+mpd_version: 0.18.11
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: (2005) The Documentary [Explicit]
+mtime: 1405354917
+begin: (2005) The Documentary [Explicit]
+song_begin: 01. Intro.mp3
+Time: 33
+mtime: 1403452795
+song_end
+song_begin: 02. Westside Story.mp3
+Time: 224
+mtime: 1403452795
+song_end
+song_begin: 03. Dreams.mp3
+Time: 287
+mtime: 1403452795
+song_end
+song_begin: 04. Hate It Or Love It.mp3
+Time: 207
+mtime: 1403452796
+song_end
+song_begin: 05. Higher.mp3
+Time: 245
+mtime: 1403452796
+song_end
+song_begin: 06. How We Do.mp3
+Time: 236
+mtime: 1403452798
+song_end
+song_begin: 07. Don't Need Your Love.mp3
+Time: 267
+mtime: 1403452793
+song_end
+song_begin: 08. Church For Thugs.mp3
+Time: 241
+mtime: 1403452796
+song_end
+song_begin: 09. Put You On The Game.mp3
+Time: 255
+mtime: 1403452793
+song_end
+song_begin: 10. Start From Scratch.mp3
+Time: 248
+mtime: 1403452795
+song_end
+song_begin: 11. The Documentary.mp3
+Time: 258
+mtime: 1403452794
+song_end
+song_begin: 12. Runnin'.mp3
+Time: 273
+mtime: 1403452794
+song_end
+song_begin: 13. No More Fun And Games.mp3
+Time: 164
+mtime: 1403452794
+song_end
+song_begin: 14. We Ain't.mp3
+Time: 293
+mtime: 1403452793
+song_end
+song_begin: 15. Where I'm From.mp3
+Time: 195
+mtime: 1403452796
+song_end
+song_begin: 16. Special.mp3
+Time: 244
+mtime: 1403452794
+song_end
+song_begin: 17. Don't Worry.mp3
+Time: 258
+mtime: 1403452797
+song_end
+song_begin: 18. Like Father, Like Son.mp3
+Time: 334
+mtime: 1403452797
+song_end
+song_begin: 11. The Documentary.m4a
+Time: 251
+Artist: The Game
+Album: The Documentary
+Title: The Documentary
+Track: 11
+Genre: Rap
+AlbumArtist: The Game
+mtime: 1405354883
+song_end
+song_begin: 12. Runnin'.m4a
+Time: 266
+Artist: The Game/Tony Yayo/Dion
+Album: The Documentary
+Title: Runnin'
+Track: 12
+Genre: Rap
+AlbumArtist: The Game
+mtime: 1405354889
+song_end
+song_begin: 13. No More Fun And Games.m4a
+Time: 157
+Artist: The Game
+Album: The Documentary
+Title: No More Fun And Games
+Track: 13
+Genre: Rap
+AlbumArtist: The Game
+mtime: 1405354893
+song_end
+song_begin: 14. We Ain't.m4a
+Time: 286
+Artist: The Game/Eminem
+Album: The Documentary
+Title: We Ain't
+Track: 14
+Genre: Rap
+AlbumArtist: The Game
+mtime: 1405354900
+song_end
+song_begin: 15. Where I'm From.m4a
+Time: 188
+Artist: The Game/Nate Dogg
+Album: The Documentary
+Title: Where I'm From
+Track: 15
+Genre: Rap
+AlbumArtist: The Game
+mtime: 1405354905
+song_end
+song_begin: 16. Special.m4a
+Time: 237
+Artist: The Game/Nate Dogg
+Album: The Documentary
+Title: Special
+Track: 16
+Genre: Rap
+AlbumArtist: The Game
+mtime: 1405354910
+song_end
+song_begin: 17. Don't Worry.m4a
+Time: 251
+Artist: The Game/Mary J Blidge
+Album: The Documentary
+Title: Don't Worry
+Track: 17
+Genre: Rap
+AlbumArtist: The Game
+mtime: 1405354917
+song_end
+song_begin: 18. Like Father, Like Son.m4a
+Time: 327
+Artist: The Game/Busta Rhymes
+Album: The Documentary
+Title: Like Father, Like Son
+Track: 18
+Genre: Rap
+AlbumArtist: The Game
+mtime: 1405354925
+song_end
+end: (2005) The Documentary [Explicit]
+directory: 50 Cent - Get Rich Or Die Tryin' 2003 (CD-RIP320)
+mtime: 1403452734
+begin: 50 Cent - Get Rich Or Die Tryin' 2003 (CD-RIP320)
+song_begin: 1. Intro.mp3
+Time: 6
+mtime: 1403452734
+song_end
+song_begin: 10. Back Down.mp3
+Time: 243
+mtime: 1403452731
+song_end
+song_begin: 11. P.I.M.P..mp3
+Time: 249
+mtime: 1403452730
+song_end
+song_begin: 12. Like My Style (featuring Tony Yayo).mp3
+Time: 193
+mtime: 1403452730
+song_end
+song_begin: 13. Poor Lil Rich.mp3
+Time: 199
+mtime: 1403452729
+song_end
+song_begin: 14. 21 Questions (featuring Nate Dogg).mp3
+Time: 224
+mtime: 1403452729
+song_end
+song_begin: 15. Don't Push Me (featurng Lloyd Banks and Eminem).mp3
+Time: 248
+mtime: 1403452732
+song_end
+song_begin: 16. Gotta Make It To Heaven.mp3
+Time: 240
+mtime: 1403452730
+song_end
+song_begin: 17. Wanksta (bonus track).mp3
+Time: 219
+mtime: 1403452731
+song_end
+song_begin: 18. U Not Like Me (bonus track).mp3
+Time: 255
+mtime: 1403452731
+song_end
+song_begin: 19. Life's On The Line.mp3
+Time: 218
+mtime: 1403452732
+song_end
+song_begin: 2. What Up Gangsta.mp3
+Time: 179
+mtime: 1403452729
+song_end
+song_begin: 20. P.I.M.P. Remix (featurng Snoop Dogg, Lloyd Banks and Young Buck) (bonus track).mp3
+Time: 288
+mtime: 1403452732
+song_end
+song_begin: 3. Patiently Waiting (featuring Eminem).mp3
+Time: 288
+mtime: 1403452731
+song_end
+song_begin: 4. Many Man (Wish Death).mp3
+Time: 256
+mtime: 1403452730
+song_end
+song_begin: 5. In Da Club.mp3
+Time: 193
+mtime: 1403452732
+song_end
+song_begin: 6. High All The Time.mp3
+Time: 269
+mtime: 1403452729
+song_end
+song_begin: 7. Heat.mp3
+Time: 254
+mtime: 1403452733
+song_end
+song_begin: 8. If I Can't.mp3
+Time: 196
+mtime: 1403452734
+song_end
+song_begin: 9. Blood Hound (featuring Young Buck).mp3
+Time: 240
+mtime: 1403452728
+song_end
+end: 50 Cent - Get Rich Or Die Tryin' 2003 (CD-RIP320)
+directory: AC-DC - Their Greatest Hits 2CD [Bubanee]
+mtime: 1403452761
+begin: AC-DC - Their Greatest Hits 2CD [Bubanee]
+directory: CD1
+mtime: 1403452761
+begin: AC-DC - Their Greatest Hits 2CD [Bubanee]/CD1
+song_begin: 01 - It's A Long Way To The Top (If You Wanna Rock 'n' Roll).mp3
+Time: 315
+mtime: 1403452761
+song_end
+song_begin: 02 - Dirty Deeds Done Dirt Cheap.mp3
+Time: 253
+mtime: 1403452757
+song_end
+song_begin: 03 - Jailbreak.mp3
+Time: 281
+mtime: 1403452761
+song_end
+song_begin: 04 - Highway to Hell.mp3
+Time: 208
+mtime: 1403452758
+song_end
+song_begin: 05 - Can I Sit Next To You Girl.mp3
+Time: 251
+mtime: 1403452758
+song_end
+song_begin: 06 - Baby, Please Don't Go.mp3
+Time: 300
+mtime: 1403452758
+song_end
+song_begin: 07 - High Voltage.mp3
+Time: 242
+mtime: 1403452759
+song_end
+song_begin: 08 - Gone Shootin'.mp3
+Time: 305
+mtime: 1403452757
+song_end
+song_begin: 09 - T.N.T..mp3
+Time: 214
+mtime: 1403452761
+song_end
+song_begin: 10 - Let There Be Rock.mp3
+Time: 366
+mtime: 1403452759
+song_end
+song_begin: 11 - Whole Lotta Rosie.mp3
+Time: 333
+mtime: 1403452759
+song_end
+song_begin: 12 - The Jack.mp3
+Time: 351
+mtime: 1403452757
+song_end
+song_begin: 13 - If You Want Blood (You've Got It).mp3
+Time: 276
+mtime: 1403452758
+song_end
+song_begin: 14 - School Days.mp3
+Time: 323
+mtime: 1403452761
+song_end
+song_begin: 15 - Live Wire.mp3
+Time: 350
+mtime: 1403452761
+song_end
+song_begin: 16 - Ride On.mp3
+Time: 351
+mtime: 1403452760
+song_end
+playlist_begin: Playlist.m3u
+mtime: 1403452761
+playlist_end
+end: AC-DC - Their Greatest Hits 2CD [Bubanee]/CD1
+directory: CD2
+mtime: 1403452757
+begin: AC-DC - Their Greatest Hits 2CD [Bubanee]/CD2
+song_begin: 01 - You Shook Me All Night Long.mp3
+Time: 210
+mtime: 1403452756
+song_end
+song_begin: 02 - Back In Black.mp3
+Time: 255
+mtime: 1403452753
+song_end
+song_begin: 03 - Rock And Roll Ain't Noise Pollution.mp3
+Time: 254
+mtime: 1403452755
+song_end
+song_begin: 04 - Heatseeker.mp3
+Time: 230
+mtime: 1403452755
+song_end
+song_begin: 05 - Who Made Who - 12' extended mix.mp3
+Time: 291
+mtime: 1403452754
+song_end
+song_begin: 06 - Thunderstruck.mp3
+Time: 292
+mtime: 1403452753
+song_end
+song_begin: 07 - Moneytalks.mp3
+Time: 225
+mtime: 1403452752
+song_end
+song_begin: 08 - For Those About to Rock (We Salute You).mp3
+Time: 344
+mtime: 1403452754
+song_end
+song_begin: 09 - Danger.mp3
+Time: 262
+mtime: 1403452756
+song_end
+song_begin: 10 - Playing With Girls.mp3
+Time: 224
+mtime: 1403452754
+song_end
+song_begin: 11 - Touch Too Much.mp3
+Time: 266
+mtime: 1403452756
+song_end
+song_begin: 12 - Dirty Eyes.mp3
+Time: 201
+mtime: 1403452756
+song_end
+song_begin: 13 - Walk All Over You.mp3
+Time: 310
+mtime: 1403452756
+song_end
+song_begin: 14 - Big Balls.mp3
+Time: 158
+mtime: 1403452756
+song_end
+song_begin: 15 - Hells Bells.mp3
+Time: 312
+mtime: 1403452753
+song_end
+song_begin: 16 - Riff Raff.mp3
+Time: 311
+mtime: 1403452756
+song_end
+song_begin: 17 - Sin City.mp3
+Time: 285
+mtime: 1403452757
+song_end
+playlist_begin: Playlist.m3u
+mtime: 1403452757
+playlist_end
+end: AC-DC - Their Greatest Hits 2CD [Bubanee]/CD2
+playlist_begin: Full Playlist.m3u
+mtime: 1403452752
+playlist_end
+end: AC-DC - Their Greatest Hits 2CD [Bubanee]
+directory: Deep Purple - The very best of Deep Purple
+mtime: 1403452802
+begin: Deep Purple - The very best of Deep Purple
+directory: Deep Purple
+mtime: 1403452802
+begin: Deep Purple - The very best of Deep Purple/Deep Purple
+directory: The Very Best of Deep Purple [EMI Single Disc]
+mtime: 1403452805
+begin: Deep Purple - The very best of Deep Purple/Deep Purple/The Very Best of Deep Purple [EMI Single Disc]
+song_begin: Deep Purple 01 Hush [30th Anniversary Remaster].mp3
+Time: 268
+mtime: 1403452805
+song_end
+song_begin: Deep Purple 02 Black Night [Single Version Remaster].mp3
+Time: 209
+mtime: 1403452804
+song_end
+song_begin: Deep Purple 03 Speed King [Single Version].mp3
+Time: 267
+mtime: 1403452804
+song_end
+song_begin: Deep Purple 04 Child in Time [Single Edit].mp3
+Time: 254
+mtime: 1403452804
+song_end
+song_begin: Deep Purple 05 Strange Kind of Woman [Single Version].mp3
+Time: 233
+mtime: 1403452804
+song_end
+song_begin: Deep Purple 06 Fireball.mp3
+Time: 206
+mtime: 1403452803
+song_end
+song_begin: Deep Purple 07 Demon's Eye.mp3
+Time: 322
+mtime: 1403452804
+song_end
+song_begin: Deep Purple 08 Smoke on the Water [25th Anniversary Remaster].mp3
+Time: 343
+mtime: 1403452804
+song_end
+song_begin: Deep Purple 09 Highway Star ['97 Remix][Version].mp3
+Time: 392
+mtime: 1403452804
+song_end
+song_begin: Deep Purple 10 When a Blind Man Cries ['97 Remix][Version].mp3
+Time: 211
+mtime: 1403452805
+song_end
+song_begin: Deep Purple 11 Never Before [Single Edit].mp3
+Time: 209
+mtime: 1403452805
+song_end
+song_begin: Deep Purple 12 Woman from Tokyo [Single Edit].mp3
+Time: 167
+mtime: 1403452805
+song_end
+song_begin: Deep Purple 13 Burn [Single Edit].mp3
+Time: 273
+mtime: 1403452805
+song_end
+song_begin: Deep Purple 14 Stormbringer.mp3
+Time: 247
+mtime: 1403452803
+song_end
+song_begin: Deep Purple 15 You Keep on Moving [Single Edit].mp3
+Time: 269
+mtime: 1403452805
+song_end
+song_begin: Deep Purple 16 Perfect Strangers [Single Version].mp3
+Time: 256
+mtime: 1403452803
+song_end
+song_begin: Deep Purple 17 Ted the Mechanic.mp3
+Time: 259
+mtime: 1403452805
+song_end
+song_begin: Deep Purple 18 Any Fule Kno That.mp3
+Time: 267
+mtime: 1403452804
+song_end
+end: Deep Purple - The very best of Deep Purple/Deep Purple/The Very Best of Deep Purple [EMI Single Disc]
+end: Deep Purple - The very best of Deep Purple/Deep Purple
+end: Deep Purple - The very best of Deep Purple
+directory: Dire Straits-Sultans Of Swing (The Very Best Of Dire Straits) (mp3) {tre123wor}
+mtime: 1403452775
+begin: Dire Straits-Sultans Of Swing (The Very Best Of Dire Straits) (mp3) {tre123wor}
+song_begin: 01-Sultans Of Swing.mp3
+Time: 350
+mtime: 1403452773
+song_end
+song_begin: 02-Lady Writer.mp3
+Time: 229
+mtime: 1403452775
+song_end
+song_begin: 03-Romeo And Juliet.mp3
+Time: 365
+mtime: 1403452775
+song_end
+song_begin: 04-Tunnel Of Love.mp3
+Time: 494
+mtime: 1403452774
+song_end
+song_begin: 05-Private Investigations.mp3
+Time: 354
+mtime: 1403452775
+song_end
+song_begin: 06-Twisting By The Pool.mp3
+Time: 216
+mtime: 1403452773
+song_end
+song_begin: 07-Love Over Gold (Live).mp3
+Time: 220
+mtime: 1403452773
+song_end
+song_begin: 08-So Far Away.mp3
+Time: 243
+mtime: 1403452774
+song_end
+song_begin: 09-Money For Nothing.mp3
+Time: 249
+mtime: 1403452773
+song_end
+song_begin: 10-Brothers In Arms.mp3
+Time: 295
+mtime: 1403452774
+song_end
+song_begin: 11-Walk Of Life.mp3
+Time: 252
+mtime: 1403452775
+song_end
+song_begin: 12-Calling Elvis.mp3
+Time: 281
+mtime: 1403452774
+song_end
+song_begin: 13-Heavy Fuel.mp3
+Time: 301
+mtime: 1403452774
+song_end
+song_begin: 14-On Every Street.mp3
+Time: 279
+mtime: 1403452774
+song_end
+song_begin: 15-Your Latest Trick (Live).mp3
+Time: 341
+mtime: 1403452773
+song_end
+song_begin: 16-Local Hero - Wild Theme (Live).mp3
+Time: 264
+mtime: 1403452774
+song_end
+end: Dire Straits-Sultans Of Swing (The Very Best Of Dire Straits) (mp3) {tre123wor}
+directory: Dr. Dre - Chronic 2001
+mtime: 1403452778
+begin: Dr. Dre - Chronic 2001
+song_begin: 01. Lolo (intro).mp3
+Time: 40
+mtime: 1403452777
+song_end
+song_begin: 02. The Watcher.mp3
+Time: 206
+mtime: 1403452777
+song_end
+song_begin: 03. Fuck You.mp3
+Time: 205
+mtime: 1403452777
+song_end
+song_begin: 04. Still D.R.E.mp3
+Time: 270
+mtime: 1403452777
+song_end
+song_begin: 05. Big Ego's.mp3
+Time: 238
+mtime: 1403452776
+song_end
+song_begin: 06. Xxplosive.mp3
+Time: 215
+mtime: 1403452776
+song_end
+song_begin: 07. Whats The Difference.mp3
+Time: 244
+mtime: 1403452777
+song_end
+song_begin: 08. Bar One.mp3
+Time: 50
+mtime: 1403452777
+song_end
+song_begin: 09. Light Speed.mp3
+Time: 160
+mtime: 1403452778
+song_end
+song_begin: 10. forgot About Dre.mp3
+Time: 222
+mtime: 1403452778
+song_end
+song_begin: 11. The Next Episode.mp3
+Time: 161
+mtime: 1403452778
+song_end
+song_begin: 12. Let's Get High.mp3
+Time: 147
+mtime: 1403452777
+song_end
+song_begin: 13. Bitch Niggaz.mp3
+Time: 253
+mtime: 1403452778
+song_end
+song_begin: 14. The Car Bomb.mp3
+Time: 60
+mtime: 1403452777
+song_end
+song_begin: 15. Murder Ink.mp3
+Time: 148
+mtime: 1403452777
+song_end
+song_begin: 16. Ed-Ucation.mp3
+Time: 92
+mtime: 1403452776
+song_end
+song_begin: 17. Some L.A. Niggaz.mp3
+Time: 265
+mtime: 1403452778
+song_end
+song_begin: 18. Pause 4 Porno.mp3
+Time: 92
+mtime: 1403452777
+song_end
+song_begin: 19. Housewife.mp3
+Time: 242
+mtime: 1403452775
+song_end
+song_begin: 20. Ackrite.mp3
+Time: 220
+mtime: 1403452777
+song_end
+song_begin: 21. Bang Bang.mp3
+Time: 222
+mtime: 1403452775
+song_end
+song_begin: 22. The Message.mp3
+Time: 330
+mtime: 1403452778
+song_end
+end: Dr. Dre - Chronic 2001
+directory: Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]
+mtime: 1403452789
+begin: Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]
+directory: CD 1
+mtime: 1403452788
+begin: Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1
+song_begin: 01. Bad Guy.mp3
+Time: 434
+mtime: 1405276525
+song_end
+song_begin: 02. Parking Lot (skit).mp3
+Time: 55
+mtime: 1403452782
+song_end
+song_begin: 03. Rhyme Or Reason.mp3
+Time: 301
+mtime: 1403452783
+song_end
+song_begin: 04. So Much Better.mp3
+Time: 261
+mtime: 1403452783
+song_end
+song_begin: 05. Survival.mp3
+Time: 274
+mtime: 1403452783
+song_end
+song_begin: 06. Legacy.mp3
+Time: 296
+mtime: 1403452783
+song_end
+song_begin: 07. Asshole (feat. Skylar Grey).mp3
+Time: 289
+mtime: 1403452786
+song_end
+song_begin: 08. Berzerk.mp3
+Time: 238
+mtime: 1403452784
+song_end
+song_begin: 09. Rap God.mp3
+Time: 363
+mtime: 1403452784
+song_end
+song_begin: 10. Brainless.mp3
+Time: 286
+mtime: 1403452784
+song_end
+song_begin: 11. Stronger Than I Was.mp3
+Time: 336
+mtime: 1403452785
+song_end
+song_begin: 12. The Monster (feat. Rihanna).mp3
+Time: 250
+mtime: 1403452785
+song_end
+song_begin: 13. So Far....mp3
+Time: 317
+mtime: 1403452788
+song_end
+song_begin: 14. Love Game (Ft. Kendrick Lamar).mp3
+Time: 297
+mtime: 1403452782
+song_end
+song_begin: 15. Headlights (Ft. Nate Ruess).mp3
+Time: 343
+mtime: 1403452786
+song_end
+song_begin: 16. Evil Twin.mp3
+Time: 356
+mtime: 1403452786
+song_end
+end: Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 1
+directory: CD 2
+mtime: 1403452789
+begin: Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 2
+song_begin: 01. Baby.mp3
+Time: 263
+mtime: 1403452789
+song_end
+song_begin: 02. Desperation (feat. Jamie N Commons).mp3
+Time: 236
+mtime: 1403452789
+song_end
+song_begin: 03. Groundhog Day.mp3
+Time: 293
+mtime: 1403452788
+song_end
+song_begin: 04. Beautiful Pain (feat. Sia).mp3
+Time: 265
+mtime: 1403452789
+song_end
+song_begin: 05. Wicked Ways.mp3
+Time: 391
+mtime: 1403452788
+song_end
+end: Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]/CD 2
+end: Eminem - The Marshall Mathers LP 2 [Deluxe Edition] [2013] [2CD] [Mp3-320]-V3nom [GLT]
+directory: Expansion Team
+mtime: 1405083538
+begin: Expansion Team
+song_begin: 01 - Live On Stage.mp3
+Time: 283
+mtime: 1405083908
+song_end
+song_begin: 02 - Worst Comes To Worst.mp3
+Time: 217
+mtime: 1405083938
+song_end
+song_begin: 03 - Clockwork.mp3
+Time: 229
+mtime: 1405083929
+song_end
+song_begin: 04 - Trade Money.mp3
+Time: 340
+mtime: 1405083954
+song_end
+song_begin: 05 - Heavy Rotation (feat. Tha Liks).mp3
+Time: 317
+mtime: 1405083776
+song_end
+song_begin: 06 - Self Defense.mp3
+Time: 216
+mtime: 1405083959
+song_end
+song_begin: 07 - Phil Da Agony Interlude.mp3
+Time: 42
+mtime: 1405083928
+song_end
+song_begin: 08 - Proper Propaganda.mp3
+Time: 237
+mtime: 1405083994
+song_end
+song_begin: 09 - Dilated Junkies (feat. J Rocc, Melo-D, Rhettmatic).mp3
+Time: 253
+mtime: 1405084002
+song_end
+song_begin: 10 - Panic.mp3
+Time: 230
+mtime: 1405084029
+song_end
+song_begin: 11 - Pay Attention.mp3
+Time: 206
+mtime: 1405084031
+song_end
+song_begin: 12 - Night Life.mp3
+Time: 255
+mtime: 1405083812
+song_end
+song_begin: 13 - War.mp3
+Time: 94
+mtime: 1405083954
+song_end
+song_begin: 14 - Hard Hitters (feat. Black Thought).mp3
+Time: 237
+mtime: 1405083965
+song_end
+song_begin: 15 - Defari Interlude.mp3
+Time: 110
+mtime: 1405083830
+song_end
+song_begin: 16 - Expansion Team Theme.mp3
+Time: 602
+mtime: 1405083902
+song_end
+end: Expansion Team
+directory: Gil Scott-Heron - The Best Of
+mtime: 1403452782
+begin: Gil Scott-Heron - The Best Of
+song_begin: 01. The Revolution Will Not Be Televised.mp3
+Time: 190
+mtime: 1403452781
+song_end
+song_begin: 02. The Bottle.mp3
+Time: 244
+mtime: 1403452780
+song_end
+song_begin: 03. Winter In America.mp3
+Time: 371
+mtime: 1403452779
+song_end
+song_begin: 04. Johannesburg.mp3
+Time: 293
+mtime: 1403452781
+song_end
+song_begin: 05. Ain't No Such Thing As A Superman.mp3
+Time: 253
+mtime: 1403452778
+song_end
+song_begin: 06. Re-Ron.mp3
+Time: 407
+mtime: 1403452780
+song_end
+song_begin: 07. Shut Em Down.mp3
+Time: 320
+mtime: 1403452782
+song_end
+song_begin: 08. Angel Dust.mp3
+Time: 259
+mtime: 1403452780
+song_end
+song_begin: 09. B Movie.mp3
+Time: 420
+mtime: 1403452782
+song_end
+end: Gil Scott-Heron - The Best Of
+directory: Jay-Z - The Blueprint 3 (2009)
+mtime: 1403452802
+begin: Jay-Z - The Blueprint 3 (2009)
+song_begin: 01 What We Talkin' About (feat Luke Steele).mp3
+Time: 246
+mtime: 1403452802
+song_end
+song_begin: 02 Thank You.mp3
+Time: 252
+mtime: 1403452801
+song_end
+song_begin: 03 D.O.A. (Death of Auto-Tune).mp3
+Time: 257
+mtime: 1403452801
+song_end
+song_begin: 04 Run This Town (feat Rihanna & Kanye West).mp3
+Time: 269
+mtime: 1403452798
+song_end
+song_begin: 05 Empire State of Mind (feat Alicia Keys).mp3
+Time: 278
+mtime: 1403452799
+song_end
+song_begin: 06 Real as It Gets (feat Young Jeezy).mp3
+Time: 254
+mtime: 1403452799
+song_end
+song_begin: 07 On to the Next One (feat Swizz Beatz).mp3
+Time: 259
+mtime: 1403452800
+song_end
+song_begin: 08 Off That (feat Drake).mp3
+Time: 248
+mtime: 1403452800
+song_end
+song_begin: 09 A Stare Is Born (feat J. Cole).mp3
+Time: 230
+mtime: 1403452802
+song_end
+song_begin: 10 Venus vs. Mars.mp3
+Time: 192
+mtime: 1403452798
+song_end
+song_begin: 11 Already Home (feat Kid Cudi).mp3
+Time: 271
+mtime: 1403452798
+song_end
+song_begin: 12 Hate (feat Kanye West).mp3
+Time: 153
+mtime: 1403452800
+song_end
+song_begin: 13 Reminder.mp3
+Time: 260
+mtime: 1403452799
+song_end
+song_begin: 14 So Ambitious (feat Pharrell).mp3
+Time: 254
+mtime: 1403452802
+song_end
+song_begin: 15 Young Forever (feat Mr Hudson).mp3
+Time: 255
+mtime: 1403452801
+song_end
+end: Jay-Z - The Blueprint 3 (2009)
+directory: Jay-Z - The Blueprint² The Gift & the Curse (2002)
+mtime: 1403452737
+begin: Jay-Z - The Blueprint² The Gift & the Curse (2002)
+directory: Disc 01
+mtime: 1403452740
+begin: Jay-Z - The Blueprint² The Gift & the Curse (2002)/Disc 01
+song_begin: 01 A Dream (feat Faith Evans & The Notorious B.I.G.).mp3
+Time: 253
+mtime: 1403452739
+song_end
+song_begin: 02 Hovi Baby.mp3
+Time: 262
+mtime: 1403452740
+song_end
+song_begin: 03 The Watcher 2 (feat Dr. Dre, Rakim & Truth Hurts).mp3
+Time: 358
+mtime: 1403452740
+song_end
+song_begin: 04 '03 Bonnie & Clyde (feat Beyoncé).mp3
+Time: 206
+mtime: 1403452737
+song_end
+song_begin: 05 Excuse Me Miss (feat Pharrell).mp3
+Time: 282
+mtime: 1403452739
+song_end
+song_begin: 06 What They Gonna Do (feat Sean Paul).mp3
+Time: 295
+mtime: 1403452739
+song_end
+song_begin: 07 All Around the World (feat LaToiya Williams).mp3
+Time: 234
+mtime: 1403452739
+song_end
+song_begin: 08 Poppin' Tags (feat Big Boi, Killer Mike & Twista).mp3
+Time: 361
+mtime: 1403452738
+song_end
+song_begin: 09 Fuck All Night.mp3
+Time: 260
+mtime: 1403452738
+song_end
+song_begin: 10 The Bounce (feat Kanye West).mp3
+Time: 259
+mtime: 1403452737
+song_end
+song_begin: 11 I Did It My Way.mp3
+Time: 223
+mtime: 1403452738
+song_end
+end: Jay-Z - The Blueprint² The Gift & the Curse (2002)/Disc 01
+directory: Disc 02
+mtime: 1403452737
+begin: Jay-Z - The Blueprint² The Gift & the Curse (2002)/Disc 02
+song_begin: 01 Diamond is Forever.mp3
+Time: 236
+mtime: 1403452735
+song_end
+song_begin: 02 Guns & Roses (feat Lenny Kravitz).mp3
+Time: 266
+mtime: 1403452735
+song_end
+song_begin: 03 U Don't Know [Remix] (feat M.O.P.).mp3
+Time: 268
+mtime: 1403452735
+song_end
+song_begin: 04 Meet the Parents.mp3
+Time: 300
+mtime: 1403452736
+song_end
+song_begin: 05 Some How Some Way (feat Beanie Sigel & Scarface).mp3
+Time: 339
+mtime: 1403452734
+song_end
+song_begin: 06 Some People Hate.mp3
+Time: 273
+mtime: 1403452735
+song_end
+song_begin: 07 Blueprint².mp3
+Time: 290
+mtime: 1403452734
+song_end
+song_begin: 08 Nigga Please (feat Young Chris).mp3
+Time: 279
+mtime: 1403452734
+song_end
+song_begin: 09 2 Many Hoes.mp3
+Time: 215
+mtime: 1403452734
+song_end
+song_begin: 10 As One (feat Beanie Sigel, Memphis Bleek, Freeway, Young Gunz, Peedi Crakk, Sparks & Rell).mp3
+Time: 230
+mtime: 1403452734
+song_end
+song_begin: 11 A Ballad for the Fallen Soldier.mp3
+Time: 283
+mtime: 1403452737
+song_end
+song_begin: 12 Show You How.mp3
+Time: 180
+mtime: 1403452736
+song_end
+song_begin: 13 Bitches & Sisters.mp3
+Time: 160
+mtime: 1403452734
+song_end
+song_begin: 14 What They Gonna Do Part II.mp3
+Time: 228
+mtime: 1403452736
+song_end
+end: Jay-Z - The Blueprint² The Gift & the Curse (2002)/Disc 02
+end: Jay-Z - The Blueprint² The Gift & the Curse (2002)
+directory: Jay-Z The Blueprint[(Explicit) @320Kbps]
+mtime: 1403452766
+begin: Jay-Z The Blueprint[(Explicit) @320Kbps]
+song_begin: 01 The Ruler's Back 1.mp3
+Time: 230
+mtime: 1403452762
+song_end
+song_begin: 02 Takeover 1.mp3
+Time: 314
+mtime: 1403452763
+song_end
+song_begin: 03 Izzo (H.O.V.A.) 1.mp3
+Time: 242
+mtime: 1403452763
+song_end
+song_begin: 04 Girls, Girls, Girls 1.mp3
+Time: 276
+mtime: 1403452763
+song_end
+song_begin: 05 Jigga That N___a 1.mp3
+Time: 205
+mtime: 1403452766
+song_end
+song_begin: 06 U Don't Know 1.mp3
+Time: 200
+mtime: 1403452765
+song_end
+song_begin: 07 Hola' Hovito 1.mp3
+Time: 274
+mtime: 1403452762
+song_end
+song_begin: 08 Heart of the City (Ain't No Lov 1.mp3
+Time: 224
+mtime: 1403452764
+song_end
+song_begin: 09 Never Change 1.mp3
+Time: 238
+mtime: 1403452764
+song_end
+song_begin: 10 Song Cry 1.mp3
+Time: 303
+mtime: 1403452766
+song_end
+song_begin: 11 All I Need 1.mp3
+Time: 267
+mtime: 1403452764
+song_end
+song_begin: 12 Renegade 1.mp3
+Time: 339
+mtime: 1403452765
+song_end
+song_begin: 13 Blueprint (Momma Loves Me) 1.mp3
+Time: 222
+mtime: 1403452765
+song_end
+song_begin: 14 Lyrical Exercise 1.mp3
+Time: 227
+mtime: 1403452763
+song_end
+song_begin: 15 Girls, Girls, Girls, Pt. 2 1.mp3
+Time: 255
+mtime: 1403452762
+song_end
+end: Jay-Z The Blueprint[(Explicit) @320Kbps]
+directory: Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps
+mtime: 1403452792
+begin: Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps
+song_begin: 01. Speak To MeBreathe [Breathe In The Air.mp3
+Time: 256
+mtime: 1403452791
+song_end
+song_begin: 02. On The Run.mp3
+Time: 228
+mtime: 1403452789
+song_end
+song_begin: 03. Time.mp3
+Time: 442
+mtime: 1403452792
+song_end
+song_begin: 04. The Great Gig In The Sky.mp3
+Time: 299
+mtime: 1403452792
+song_end
+song_begin: 05. Mone.mp3
+Time: 407
+mtime: 1403452791
+song_end
+song_begin: 06. Us And Them.mp3
+Time: 476
+mtime: 1403452790
+song_end
+song_begin: 07. Any Colour You Like.mp3
+Time: 221
+mtime: 1403452790
+song_end
+song_begin: 08. Brain Damage.mp3
+Time: 246
+mtime: 1403452791
+song_end
+song_begin: 09. Eclipse.mp3
+Time: 139
+mtime: 1403452789
+song_end
+end: Pink Floyd 1973 The Dark Side Of The Moon 2011 Remastered & Arts 320 Kbps
+directory: The Best of Frank Zappa (2004)
+mtime: 1403452743
+begin: The Best of Frank Zappa (2004)
+directory: DISC
+mtime: 1403452742
+begin: The Best of Frank Zappa (2004)/DISC
+song_begin: Frank Zappa - Bobby Brown Goes Down - 12.mp3
+Time: 171
+mtime: 1403452742
+song_end
+song_begin: Frank Zappa - Cosmik Debris - 07.mp3
+Time: 255
+mtime: 1403452740
+song_end
+song_begin: Frank Zappa - Dancin' Fool - 03.mp3
+Time: 225
+mtime: 1403452741
+song_end
+song_begin: Frank Zappa - Dirty Love - 05.mp3
+Time: 179
+mtime: 1403452741
+song_end
+song_begin: Frank Zappa - Disco Boy - 08.mp3
+Time: 311
+mtime: 1403452743
+song_end
+song_begin: Frank Zappa - Don't Eat The Yellow Snow_ (Single Version) - 02.mp3
+Time: 216
+mtime: 1403452742
+song_end
+song_begin: Frank Zappa - Fine Girl - 09.mp3
+Time: 212
+mtime: 1403452741
+song_end
+song_begin: Frank Zappa - I'm The Slime - 10.mp3
+Time: 216
+mtime: 1403452740
+song_end
+song_begin: Frank Zappa - Joe's Garage_ (Single Version) - 11.mp3
+Time: 250
+mtime: 1403452742
+song_end
+song_begin: Frank Zappa - Montana_ (Single Version) - 13.mp3
+Time: 289
+mtime: 1403452741
+song_end
+song_begin: Frank Zappa - Muffin Man - 15.mp3
+Time: 333
+mtime: 1403452742
+song_end
+song_begin: Frank Zappa - My Guitar Wants To Kill Your Mama - 06.mp3
+Time: 213
+mtime: 1403452740
+song_end
+song_begin: Frank Zappa - Peaches En Regalia - 01.mp3
+Time: 218
+mtime: 1403452741
+song_end
+song_begin: Frank Zappa - San Ber'dino - 04.mp3
+Time: 359
+mtime: 1403452742
+song_end
+song_begin: Frank Zappa - Valley Girl_ (Frank Zappa, Moon Zappa) - 14.mp3
+Time: 292
+mtime: 1403452741
+song_end
+end: The Best of Frank Zappa (2004)/DISC
+end: The Best of Frank Zappa (2004)
+directory: The Game - Doctor's Advocate
+mtime: 1405353120
+begin: The Game - Doctor's Advocate
+song_begin: 01 - The Game - 01 - Lookin' At You.m4a
+Time: 217
+Artist: The Game
+Album: Doctor's Advocate
+Title: 01 - Lookin' At You
+Track: 1
+Genre: Rap
+Date: 2006
+Composer: E. Pope/J. Taylor
+AlbumArtist: The Game
+mtime: 1405352863
+song_end
+song_begin: 02 - The Game - 02 - Da Shit.m4a
+Time: 323
+Artist: The Game
+Album: Doctor's Advocate
+Title: 02 - Da Shit
+Track: 2
+Genre: Rap
+Date: 2006
+Composer: J. Taylor/Janeen Jasmine/K. Abdul-Rahman/Zoogz Rift
+AlbumArtist: The Game
+mtime: 1405352871
+song_end
+song_begin: 03 - The Game - 03 - It's Okay (One Blood) Feat. Junior Reid.m4a
+Time: 257
+Artist: The Game
+Album: Doctor's Advocate
+Title: 03 - It's Okay (One Blood) Feat. Junior Reid
+Track: 3
+Genre: Rap
+Date: 2006
+Composer: D. Collington/D. Reid/J. Taylor/S. Slater
+AlbumArtist: The Game
+mtime: 1405352877
+song_end
+song_begin: 04 - The Game - 04 - Compton Feat. Will.I.Am.m4a
+Time: 281
+Artist: The Game
+Album: Doctor's Advocate
+Title: 04 - Compton Feat. Will.I.Am
+Track: 4
+Genre: Rap
+Date: 2006
+Composer: Andre Wicker/Arlandis Hinton/Curtis Mayfield/David Weldon/Eric Wright/J. Taylor/W. Adam/Weaver, Jesse Jr.
+AlbumArtist: The Game
+mtime: 1405352884
+song_end
+song_begin: 05 - The Game - 05 - Remedy.m4a
+Time: 177
+Artist: The Game
+Album: Doctor's Advocate
+Title: 05 - Remedy
+Track: 5
+Genre: Rap
+Date: 2006
+Composer: I. Hayes/J. Smith/J. Taylor
+AlbumArtist: The Game
+mtime: 1405352888
+song_end
+song_begin: 06 - The Game - 06 - Let's Ride.m4a
+Time: 237
+Artist: The Game
+Album: Doctor's Advocate
+Title: 06 - Let's Ride
+Track: 6
+Genre: Rap
+Date: 2006
+Composer: J. Taylor/S. Storch
+AlbumArtist: The Game
+mtime: 1405352893
+song_end
+song_begin: 07 - The Game - 07 - Too Much Feat. Nate Dogg.m4a
+Time: 251
+Artist: The Game
+Album: Doctor's Advocate
+Title: 07 - Too Much Feat. Nate Dogg
+Track: 7
+Genre: Rap
+Date: 2006
+Composer: J. Taylor/N. Hale/S. Storch
+AlbumArtist: The Game
+mtime: 1405352900
+song_end
+song_begin: 08 - The Game - 08 - Wouldn't Get Far Feat. Kanye West.m4a
+Time: 251
+Artist: The Game
+Album: Doctor's Advocate
+Title: 08 - Wouldn't Get Far Feat. Kanye West
+Track: 8
+Genre: Rap
+Date: 2006
+Composer: J. Taylor/K. West/Marilyn McLeod/Pam Sawyer
+AlbumArtist: The Game
+mtime: 1405352906
+song_end
+song_begin: 09 - The Game - 09 - Scream On 'Em.m4a
+Time: 260
+Artist: The Game
+Album: Doctor's Advocate
+Title: 09 - Scream On 'Em
+Track: 9
+Genre: Rap
+Date: 2006
+Composer: J. Taylor/K. Dean
+AlbumArtist: The Game
+mtime: 1405352912
+song_end
+song_begin: 10 - The Game - 10 - One Night.m4a
+Time: 267
+Artist: The Game
+Album: Doctor's Advocate
+Title: 10 - One Night
+Track: 10
+Genre: Rap
+Date: 2006
+Composer: D. Bristol/D. Lamb/J. Taylor/K. Edmonds/S. Johnson
+AlbumArtist: The Game
+mtime: 1405352918
+song_end
+song_begin: 11 - The Game - 11 - Doctor's Advocate Feat. Busta Rhymes & Chauncey Black.m4a
+Time: 303
+Artist: The Game
+Album: Doctor's Advocate
+Title: 11 - Doctor's Advocate Feat. Busta Rhymes & Chauncey Black
+Track: 11
+Genre: Rap
+Date: 2006
+Composer: C. Young/D. Goldsmith/J. Smith/J. Taylor/J.R. Rotem
+AlbumArtist: The Game
+mtime: 1405352926
+song_end
+song_begin: 12 - The Game - 12 - Ol' English Feat. Dion.m4a
+Time: 284
+Artist: The Game
+Album: Doctor's Advocate
+Title: 12 - Ol' English Feat. Dion
+Track: 12
+Genre: Rap
+Date: 2006
+Composer: J. Taylor/T. Cotrell
+AlbumArtist: The Game
+mtime: 1405352932
+song_end
+song_begin: 13 - The Game - 13 - California Vacation Feat. Snoop Dogg & Xzibit.m4a
+Time: 269
+Artist: The Game
+Album: Doctor's Advocate
+Title: 13 - California Vacation Feat. Snoop Dogg & Xzibit
+Track: 13
+Genre: Rap
+Date: 2006
+Composer: A. Joiner/C. Broadus/J. Taylor/J.R. Rotem
+AlbumArtist: The Game
+mtime: 1405352939
+song_end
+song_begin: 14 - The Game - 14 - Bang Feat. Tha Dogg Pound.m4a
+Time: 217
+Artist: The Game
+Album: Doctor's Advocate
+Title: 14 - Bang Feat. Tha Dogg Pound
+Track: 14
+Genre: Rap
+Date: 2006
+Composer: D. Arnaud/D. Drew/J. Taylor/R. Brown
+AlbumArtist: The Game
+mtime: 1405352944
+song_end
+song_begin: 15 - The Game - 15 - Around The World Feat. Jamie Foxx.m4a
+Time: 242
+Artist: The Game
+Album: Doctor's Advocate
+Title: 15 - Around The World Feat. Jamie Foxx
+Track: 15
+Genre: Rap
+Date: 2006
+Composer: D. Porter/J. Taylor/M. Chavarria
+AlbumArtist: The Game
+mtime: 1405352950
+song_end
+song_begin: 16 - The Game - 16 - Why You Hate The Game Feat. Nas & Marsha Ambrosius.m4a
+Time: 562
+Artist: The Game
+Album: Doctor's Advocate
+Title: 16 - Why You Hate The Game Feat. Nas & Marsha Ambrosius
+Track: 16
+Genre: Rap
+Date: 2006
+Composer: J. Smith/J. Taylor/M. Ambrosius/N. Jones/Norbert Sloley
+AlbumArtist: The Game
+mtime: 1405352965
+song_end
+end: The Game - Doctor's Advocate
+directory: The Game - LAX (Deluxe Edition) [Explicit]
+mtime: 1405353484
+begin: The Game - LAX (Deluxe Edition) [Explicit]
+directory: Bonus CD
+mtime: 1405353588
+begin: The Game - LAX (Deluxe Edition) [Explicit]/Bonus CD
+song_begin: 1. Big Dreams.m4a
+Time: 289
+Artist: The Game
+Album: LAX (Deluxe Version)
+Title: Big Dreams
+Track: 1
+Genre: Gangsta
+Date: 2008
+mtime: 1405353519
+song_end
+song_begin: 2. Camera Phone.m4a
+Time: 269
+Artist: The Game Ft. Ne-Yo
+Album: LAX (Deluxe Version)
+Title: Camera Phone
+Track: 2
+Genre: Gangsta
+Date: 2008
+mtime: 1405353526
+song_end
+song_begin: 3. Nice.m4a
+Time: 280
+Artist: The Game
+Album: LAX (Deluxe Version)
+Title: Nice
+Track: 3
+Genre: Gangsta
+Date: 2008
+mtime: 1405353532
+song_end
+song_begin: 4. Spanglish.m4a
+Time: 255
+Artist: The Game
+Album: LAX (Deluxe Version)
+Title: Spanglish
+Track: 4
+Genre: Gangsta
+Date: 2008
+mtime: 1405353539
+song_end
+end: The Game - LAX (Deluxe Edition) [Explicit]/Bonus CD
+song_begin: 1. Intro.m4a
+Time: 81
+Artist: The Game
+Album: LAX (Deluxe Version)
+Title: Intro
+Genre: Rap
+Date: 2008
+mtime: 1405353294
+song_end
+song_begin: 10. House of Pain .m4a
+Time: 272
+Artist: The Game
+Album: LAX (Deluxe Version)
+Title: House Of Pain
+Genre: Rap
+Date: 2008
+mtime: 1405353237
+song_end
+song_begin: 11. Gentleman's Affair.m4a
+Time: 219
+Artist: The Game Ft. Ne-Yo
+Album: LAX (Deluxe Version)
+Title: Gentleman's Affair
+Genre: Rap
+Date: 2008
+mtime: 1405353243
+song_end
+song_begin: 12. Let Us Live .m4a
+Time: 279
+Artist: The Game Ft.Chrisette Michele
+Album: LAX (Deluxe Version)
+Title: Let Us Live
+Genre: Rap
+Date: 2008
+mtime: 1405353249
+song_end
+song_begin: 13. Touchdown.m4a
+Time: 239
+Artist: The Game Ft. Raheem DeVaughn
+Album: LAX (Deluxe Version)
+Title: Touchdown
+Genre: Rap
+Date: 2008
+mtime: 1405353255
+song_end
+song_begin: 14. Angel.m4a
+Time: 268
+Artist: The Game Ft. Common
+Album: LAX (Deluxe Version)
+Title: Angel
+Genre: Rap
+Date: 2008
+mtime: 1405353262
+song_end
+song_begin: 15. Never Can Say Goodbye.m4a
+Time: 280
+Artist: The Game Ft. Latoya Williams
+Album: LAX (Deluxe Version)
+Title: Never Can Say Goodbye
+Genre: Rap
+Date: 2008
+mtime: 1405353268
+song_end
+song_begin: 16. Dope Boys.m4a
+Time: 240
+Artist: The Game Ft. Travis Barker
+Album: LAX (Deluxe Version)
+Title: Dope Boys
+Genre: Rap
+Date: 2008
+mtime: 1405353274
+song_end
+song_begin: 17. Game's Pain.m4a
+Time: 261
+Artist: The Game Ft. Keyshia Cole
+Album: LAX (Deluxe Version)
+Title: Game's Pain
+Genre: Rap
+Date: 2008
+mtime: 1405353281
+song_end
+song_begin: 18. Letter to the King.m4a
+Time: 345
+Artist: The Game Ft. Nas
+Album: LAX (Deluxe Version)
+Title: Letter To The King
+Genre: Rap
+Date: 2008
+mtime: 1405353290
+song_end
+song_begin: 19. Outro.m4a
+Time: 88
+Artist: The Game
+Album: LAX (Deluxe Version)
+Title: Outro
+Genre: Rap
+Date: 2008
+mtime: 1405353292
+song_end
+song_begin: 2. Lax Files.m4a
+Time: 239
+Artist: The Game
+Album: LAX (Deluxe Version)
+Title: LAX Files
+Genre: Rap
+Date: 2008
+mtime: 1405353300
+song_end
+song_begin: 3. State of Emergency.m4a
+Time: 218
+Artist: The Game Ft. Ice Cube
+Album: LAX (Deluxe Version)
+Title: State Of Emergency
+Genre: Rap
+Date: 2008
+mtime: 1405353305
+song_end
+song_begin: 4. Bulletproof Diaries .m4a
+Time: 292
+Artist: The Game Ft. Raekwon
+Album: LAX (Deluxe Version)
+Title: Bulletproof Diaries
+Genre: Rap
+Date: 2008
+mtime: 1405353313
+song_end
+song_begin: 5. My Life.m4a
+Time: 320
+Artist: The Game Ft. Lil Wayne
+Album: LAX (Deluxe Version)
+Title: My Life
+Genre: Rap
+Date: 2008
+mtime: 1405353321
+song_end
+song_begin: 6. Money .m4a
+Time: 313
+Artist: The Game
+Album: LAX (Deluxe Version)
+Title: Money
+Genre: Rap
+Date: 2008
+mtime: 1405353329
+song_end
+song_begin: 7. Cali Sunshine .m4a
+Time: 273
+Artist: The Game Ft. Bilal
+Album: LAX (Deluxe Version)
+Title: Cali Sunshine
+Genre: Rap
+Date: 2008
+mtime: 1405353335
+song_end
+song_begin: 8. Ya Heard.m4a
+Time: 244
+Artist: The Game Ft. Ludacris
+Album: LAX (Deluxe Version)
+Title: Ya Heard
+Genre: Rap
+Date: 2008
+mtime: 1405353341
+song_end
+song_begin: 9. Hard Liquor (Interlude) .m4a
+Time: 110
+Artist: The Game
+Album: LAX (Deluxe Version)
+Title: Hard Liquor (Interlude)
+Genre: Rap
+Date: 2008
+mtime: 1405353344
+song_end
+end: The Game - LAX (Deluxe Edition) [Explicit]
+directory: The Very Best Of Micheal Jackson
+mtime: 1403452772
+begin: The Very Best Of Micheal Jackson
+song_begin: Michael Jackson - Billie Jean.mp3
+Time: 294
+mtime: 1403452771
+song_end
+song_begin: Michael Jackson - Black Or White.mp3
+Time: 366
+mtime: 1403452772
+song_end
+song_begin: Michael Jackson - Don't Stop 'Til You Get Enough.mp3
+Time: 251
+mtime: 1403452770
+song_end
+song_begin: Michael Jackson - Little Sussie.mp3
+Time: 68
+mtime: 1403452768
+song_end
+song_begin: Michael Jackson - One More Chance (Michael Jackson's Vision).mp3
+Time: 283
+mtime: 1403452771
+song_end
+song_begin: Michael Jackson - Scream.mp3
+Time: 286
+mtime: 1403452769
+song_end
+song_begin: Michael Jackson - Thriller - The Lady In My Life.mp3
+Time: 299
+mtime: 1403452769
+song_end
+song_begin: Michael Jackson - Thriller.mp3
+Time: 822
+mtime: 1403452767
+song_end
+song_begin: Michael Jackson - Will You Be There (lyrics).mp3
+Time: 339
+mtime: 1403452766
+song_end
+song_begin: Michael Jackson Ben- Lyrics.mp3
+Time: 164
+mtime: 1403452768
+song_end
+song_begin: Michael Jackson Hurt.mp3
+Time: 492
+mtime: 1403452770
+song_end
+song_begin: Michael Jackson I Just Can't Stop Loving You _WITH LYRICS!_.mp3
+Time: 254
+mtime: 1403452768
+song_end
+song_begin: Michael Jackson __ One More Chance ; Lyrics.mp3
+Time: 235
+mtime: 1403452773
+song_end
+song_begin: Michael Jackson- Bad (Lyrics).mp3
+Time: 251
+mtime: 1403452772
+song_end
+song_begin: Michael Jackson- Don't Stop Til You Get Enough-Lyrics.mp3
+Time: 365
+mtime: 1403452772
+song_end
+song_begin: Michael Jackson- Much Too Soon.mp3
+Time: 180
+mtime: 1403452769
+song_end
+song_begin: Michael Jackson- One Day In Your Life (HQ).mp3
+Time: 66
+mtime: 1403452767
+song_end
+song_begin: Michael Jackson-Dirty Diana Lyrics.mp3
+Time: 287
+mtime: 1403452768
+song_end
+song_begin: You Are Not Alone Lyrics (Michael Jackson).mp3
+Time: 333
+mtime: 1403452768
+song_end
+end: The Very Best Of Micheal Jackson

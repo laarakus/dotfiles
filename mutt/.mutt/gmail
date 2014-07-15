@@ -1,0 +1,17 @@
+mailboxes ~/Mail/gmail/inbox/
+
+set imap_user = "[username]@gmail.com"
+set imap_pass = "[password]"
+set folder = "imaps://imap.gmail.com:993"
+set spoolfile = "+INBOX"
+set postponed = "+Drafts"
+set record = "+Sent Mail"
+
+set realname = 'your name'
+set my_user = '[username]@gmail.com'
+set my_pass = '[password]'
+set smtp_url = smtps://$my_user:$my_pass@smtp.gmail.com
+set from = [username]@gmail.com
+set hostname = "gmail.com"
+
+account-hook ~/Mail/gmail/ "set smtp_url = smtps://$my_user:$my_pass@smtp.gmail.com"

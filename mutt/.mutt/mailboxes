@@ -1,0 +1,4 @@
+# gmail
+source "~/.mutt/gmail"
+folder-hook ~/Mail/gmail/ 'source ~/.mutt/gmail'
+folder-hook ~/Mail/gmail/ 'set realname="user gmail"'

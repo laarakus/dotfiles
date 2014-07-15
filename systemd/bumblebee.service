@@ -1,0 +1,10 @@
+[Unit]
+Description=Enable NVIDIA card
+DefaultDependencies=no
+
+[Service]
+Type=oneshot
+	ExecStart=/usr/sbin/bumblebeed 
+
+[Install]
+WantedBy=shutdown.target

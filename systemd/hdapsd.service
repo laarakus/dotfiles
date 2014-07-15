@@ -1,0 +1,13 @@
+[Unit]
+Description=HDAPS userspace hard drive protection daemon
+After=syslog.target
+
+[Service]
+Type=forking
+PIDFile=/var/run/hdapsd.pid
+ExecStart=/usr/sbin/hdapsd --sensitivity=40 -blp -d /dev/sda
+ExecReload=/bin/kill -HUP ${MAINPID}
+
+[Install]
+WantedBy=multi-user.target
+

@@ -1,0 +1,4 @@
+include "/usr/share/themes/Emacs/gtk-2.0-key/gtkrc"
+gtk-icon-theme-name = "hicolor"
+gtk-font-name="Monaco for Powerline 9"
+gtk-theme-name = "Numix Solarized Light"

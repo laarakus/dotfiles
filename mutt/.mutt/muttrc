@@ -1,0 +1,7 @@
+# source files
+source ~/.mutt/general
+source ~/.mutt/mailboxes
+source ~/.mutt/aliases
+source ~/.mutt/colors
+source ~/.mutt/keybindings
+source ~/.mutt/macros

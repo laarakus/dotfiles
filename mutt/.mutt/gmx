@@ -1,0 +1,16 @@
+mailboxes ~/Mail/gmx/inbox/
+
+set folder = ~/Mail/gmx/
+set record = +sent
+set mbox = +mbox
+set spoolfile = +inbox
+set postponed = +drafts
+
+set realname = ''
+set my_user = ''
+set my_pass = ''
+set smtp_url = smtps://$my_user:$my_pass@smtp.gmx.com
+set from = @gmx.com
+set hostname = "gmx.com"
+
+account-hook ~/Mail/gmx/ "set smtp_url = smtps://$my_user:$my_pass@smtp.gmx.com"

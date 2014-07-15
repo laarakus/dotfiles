@@ -1,0 +1,44 @@
+#increase volume
+"amixer set Master playback 1+"
+   m:0x0 + c:123
+   XF86AudioRaiseVolume
+
+#decrase volume
+"amixer set Master playback 1-"
+   m:0x0 + c:122
+   XF86AudioLowerVolume
+
+# Toggle mute
+"amixer set Master toggle"
+   m:0x0 + c:121
+   XF86AudioMute
+
+# Toggle the Touchpad on|off
+"synclient TouchpadOff=`synclient -l | grep -ce TouchpadOff.*0`"
+   m:0x0 + c:199
+   XF86TouchpadToggle
+
+#arabic-keyboard
+"setxkbmap -layout ara -variant basic"
+    m:0xc + c:24
+    Control+Alt + a
+
+#english-keyboard
+"setxkbmap -layout be"
+    m:0xc + c:26
+    Control+Alt + e
+
+# take a screenshot
+"import -window root ~/screenshot.png"
+   m:0x41 + c:39
+   Shift+Mod4 + s
+
+# launch firefox
+"firefox-bin"
+   m:0x41 + c:41
+   Shift+Mod4 + f
+
+# launch urxvt 
+"urxvt -e tmux"
+   m:0x41 + c:36
+   Shift+Mod4 + Return
