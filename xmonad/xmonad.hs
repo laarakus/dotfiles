@@ -14,14 +14,14 @@ myTerminal = "urxvt"
 myFocusFollowsMouse :: Bool
 myFocusFollowsMouse = False
 
-myBorderWidth   = 1
+myBorderWidth   = 0
 
 myModMask       = mod4Mask
 
 myWorkspaces    = ["1","2","3","4","5","6","7","8","9"]
 
-myNormalBorderColor  = "#0A0A0A"
-myFocusedBorderColor = "#0F0F0F"
+myNormalBorderColor  = "#002b36"
+myFocusedBorderColor = "#839496"
 
 myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
 
@@ -91,20 +91,20 @@ main = xmonad =<< statusBar myBar myPP toggleStrutsKey defaults { keys = \c -> a
 
 myBar = "xmobar"
 
-myPP = xmobarPP { ppCurrent = xmobarColor "#CC0000" "" . wrap "[" "]" 
-				, ppTitle   = const ""
-				, ppLayout  = xmobarColor "#00CC00" "" .
-							(\ x -> pad $ case x of
-										"Tall"          -> "[|]"
-										"Mirror Tall"   -> "[-]"
-										"Full"          -> "[ ]"
-										"Grid"          -> "[+]"
-										"Roledex"       -> "[\\]"
-										_               -> x
-							)
-				, ppHidden   = const ""
-				, ppSep    = ""
-				}
+myPP = xmobarPP { ppCurrent = xmobarColor "#ffffff,#93a1a1" "" . wrap " " "" 
+                , ppTitle   = const ""
+                , ppLayout  = xmobarColor "#ffffff,#93a1a1" "" .
+                    (\ x -> pad $ case x of
+                        "Tall"          -> ": t"
+                        "Mirror Tall"   -> ": m"
+                        "Full"          -> ": f"
+                        "Grid"          -> ": g"
+                        "Roledex"       -> ": r"
+                        _               -> x
+                    )
+                , ppHidden   = const ""
+                , ppSep    = ""
+                }
 				
 toggleStrutsKey XConfig {XMonad.modMask = modMask} = (modMask, xK_b)
 

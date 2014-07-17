@@ -1,17 +1,18 @@
 Config 
     { 
-        font = "xft:Monaco for Powerline:size=9"
-        , borderColor = "black"
-        , bgColor = "black" 
-        , fgColor = "white"
+        font = "xft:Source Code Pro:size=8"
+        , borderColor = "#839496"
+        , bgColor = "#073642" 
+        -- , border = FullBM 0
+        , border = NoBorder
+        , fgColor = "#839496"
         -- , alpha = 120 
-        , position = Static { xpos = 0, ypos = 0, width = 1600, height = 21 }, 
+        , position = Static { xpos = 0, ypos = 0, width = 1600, height = 19 }, 
         , lowerOnStart = True
         , hideOnStart = False
         , allDesktops = True
         , sepChar = "%"
         , alignSep = "}{"
-        , border = NoBorder
         , overrideRedirect = True 
         , persistent = True 
         , commands = 
@@ -44,5 +45,5 @@ Config
             , Run NamedXPropertyLog "_XMONAD_LOG_TOP" "xm"
             , Run MPD ["-t","<statei> <ppos>/<plength>","--", "-P", ">>", "-Z", "|", "-S", "><"] 10
             ]
-        , template = "%StdinReader% %mpd% }{ %multicpu% %coretemp% %memory%-%swap% %disku% %dynnetwork% %battery% %default:Master% %kbd% · %date% %GMMC% "
+        , template = "%StdinReader% %mpd% }{ <fc=#fdf6e3,#657B83> %multicpu% %coretemp% %memory%-%swap% %disku% %dynnetwork% </fc><fc=#fdf6e3,#93a1a1> %battery% %default:Master% %kbd% </fc><fc=#fdf6e3,#cb4b16> %date% %GMMC% </fc>"
     }

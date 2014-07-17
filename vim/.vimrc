@@ -124,7 +124,10 @@ set foldcolumn=0
 "}}}
 " {{{=> Colors and Fonts
 
-colorscheme pablo
+set t_Co=256
+set t_ut=
+colorscheme solarized
+set background=dark
 
 " Indentation related
 let g:indentLine_char = '|' 
@@ -133,7 +136,7 @@ let g:indentLine_color_dark = 1
 
 " Set extra options when running in GUI mode
 set guitablabel=%M\ %t
-set guifont=Monaco\ for\ Powerline\ 9
+set guifont=Source\ Code\ Pro\ 8
 set guioptions-=m
 set guioptions-=e
 set guioptions-=T
@@ -262,9 +265,10 @@ let g:airline_left_sep          = ''
 let g:airline_left_alt_sep      = ''
 let g:airline_right_sep         = ''
 let g:airline_right_alt_sep     = ''
-let g:airline_branch_prefix     = '⭠'
-let g:airline_readonly_symbol   = '⭤'
-let g:airline_linecolumn_prefix = '⭡'
+let g:airline_branch_prefix     = ''
+let g:airline_readonly_symbol   = ''
+let g:airline_linecolumn_prefix = ''
+let g:airline_theme             = 'solarized'
 
 "}}}
 " {{{=> Editing mappings
